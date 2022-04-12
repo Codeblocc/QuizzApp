@@ -1,3 +1,3 @@
-# Quizz App
+# Quizz App - Work in progress.
 
-In progess.
+HTML & CSS files have been uploaded. Will upload the JavaScript file once completed.
